@@ -20,8 +20,6 @@ JavaScript, React, Redux
 
 ### 기능 3
 
-### 기능 4
-
 <br>
 
 ## 라이센스
